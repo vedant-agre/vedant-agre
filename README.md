@@ -1,6 +1,33 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>- College projects using C and web technologies  <br>- Improving program structure and logic through hands-on coding  <br><br>🌱 I’m currently learning  <br>- C programming (logic, arrays, functions)  <br>- Web development fundamentals (HTML, CSS, JavaScript)  <br><br>📂 Projects  <br>- 🌐 VITConnect  <br>  Web-based application built using HTML, CSS, JavaScript, and backend logic  <br>  Focused on connecting users and managing interactions  <br><br>- 🧠 Quiz Application (C)  <br>  Console-based quiz application built in C  <br>  Implemented using functions, conditionals, and basic data handling<br><br>🤝 I’m looking to collaborate on  <br>- Small beginner-friendly web or C projects  <br><br>🫱 I’m looking for help with  <br>- Writing cleaner C code  <br>- Structuring small projects properly  <br><br>💬 Ask me about  <br>- C programming basics  <br>- Git & GitHub fundamentals  <br><br>⚡ Fun fact  <br>- I prefer understanding fundamentals over memorizing shortcuts<br>
+# 💫 About Me
 
+🔭 B.Tech student in Computer Science (Data Science) focused on building strong programming foundations and structured problem-solving skills.
+
+🚀 Currently Working On
+
+- 🧭 **Career Prediction Web App**  
+  A dynamic web-based system that analyzes user interests, skills, and preferences to suggest suitable career paths.  
+  Focused on logic design, user input modeling, and structured backend implementation.
+
+- 🌐 **VITConnect**  
+  A web application aimed at connecting students and managing interactions across college communities.  
+  Built using HTML, CSS, JavaScript, and backend logic with emphasis on clean structure and usability.
+
+📚 Currently Strengthening
+
+- Core programming fundamentals  
+- Backend logic structuring  
+- Web development principles  
+- Clean code practices and maintainability  
+- Version control discipline using Git  
+
+🤝 Open To
+
+- Collaborative beginner-to-intermediate web projects  
+- Feedback on improving system structure and implementation  
+
+⚡ Approach
+
+I focus on understanding fundamentals deeply and building structured systems before moving toward advanced complexity.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-agre) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agrevedant316@gmail.com) 
